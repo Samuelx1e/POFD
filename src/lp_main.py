@@ -103,3 +103,5 @@ if __name__ == '__main__':
     init_x = [graph[x].x.to(device) for x in node_types]
     # run exp
     main()
+
+
